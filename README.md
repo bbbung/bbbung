@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bung
+### Hi there 👋, I'm Bung, student in CS
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bbbung)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bbbung_m/)
@@ -11,15 +11,8 @@
 - 👨🏽‍💻 I’m currently learning in Computer-Science program;
 - 🌱 Still be a beginner ka ; 
 
-&nbsp;
 
 📈 <b>My GitHub Stats:<b>
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbbung&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=solarized-light" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbung&layout=compact&theme=solarized-light&hide_border=true"/>
-<p>
-<p>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bbbung&theme=solarized-light&hide_border=true"/>
-</p>
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=bbbung)](https://github.com/bbbung/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">[![My Languages](https://github-stats-bbbung.vercel.app/api/languages.js?username=bbbung)](https://github.com/bbbung/github-stats)
 
