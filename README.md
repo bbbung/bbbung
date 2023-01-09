@@ -5,12 +5,13 @@
 
 &nbsp;
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="cat" src="https://i.cbc.ca/1.5359228.1577206958!/fileImage/httpImage/smudge-the-viral-cat.jpg" />
 
 - 👨🏽‍💻 I’m currently learning in Computer-Science program;
 - 🌱 Still be a beginner ka ; 
 
+&nbsp;
 
 📈 <b>My GitHub Stats:<b>
 
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=bbbung)](https://github.com/bbbung/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">[![My Languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=bbbung)](https://github.com/bbbung/github-stats)
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=bbbung)](https://github.com/bbbung/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">
