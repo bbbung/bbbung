@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bung, student in CS
+### Hi there 👋, I'm Bung
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bbbung)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bbbung_m/)
@@ -10,6 +10,8 @@
 
 - 👨🏽‍💻 I’m currently learning in Computer-Science program;
 - 🌱 Still be a beginner ka ; 
+
+&nbsp;
 
 📈 <b>My GitHub Stats:<b>
 
