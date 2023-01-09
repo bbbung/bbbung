@@ -5,10 +5,10 @@
 
 &nbsp;
 
-<img width="55%" align="right" alt="cat" src="https://i.cbc.ca/1.5359228.1577206958!/fileImage/httpImage/smudge-the-viral-cat.jpg" />
+<img width="55%" align="right" alt="cat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0SWnFozXXNsmD-3Kt7WFE8fZsdJ4reKzOA&usqp=CAU" />
 
-- 👨🏽‍💻 I’m currently learning in Computer-Science program;
-- 🌱 Still be a beginner ka ; 
+- 👨🏽‍💻 I’m currently learning in Computer-Science program
+- 🌱 Still be a beginner ka 
 
 &nbsp;
 
