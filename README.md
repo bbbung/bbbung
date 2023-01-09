@@ -5,7 +5,7 @@
 
 &nbsp;
 
-<img width="55%" align="right" alt="cat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0SWnFozXXNsmD-3Kt7WFE8fZsdJ4reKzOA&usqp=CAU" />
+<img width="55%" align="right" alt="cat" src="https://img.freepik.com/free-vector/happy-girl-drinking-bubble-milk-tea-cartoon-art-illustration_56104-663.jpg?w=740&t=st=1673284534~exp=1673285134~hmac=5c5c7244a28c611788f9963685767a230afa812d6a34741d8256b48894a956d1" />
 
 - 👨🏽‍💻 I’m currently learning in Computer-Science program
 - 🌱 Still be a beginner ka 
