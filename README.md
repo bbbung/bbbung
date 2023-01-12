@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bung, student in CS
+### Hi there 👋, I'm Kanyapat
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bbbung)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:kanyapat.mekv@kmutt.ac.th)
