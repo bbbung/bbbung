@@ -12,7 +12,4 @@
 
 &nbsp;
 
-📈 <b>My GitHub Stats:<b>  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbung&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbung&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-  
+
