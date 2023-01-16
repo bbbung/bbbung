@@ -12,5 +12,5 @@
 
 &nbsp;
 
-![KM's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbung&show_icons=true&count_private=true)
+<!-- ![KM's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbung&show_icons=true&count_private=true) -->
 
