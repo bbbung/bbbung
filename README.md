@@ -13,9 +13,6 @@
 &nbsp;
 
 📈 <b>My GitHub Stats:<b>  
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/bbbung/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/bbbung/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/bbbung/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/bbbung/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/bbbung/github-profile-summary-cards)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbung&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbung&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
