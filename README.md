@@ -12,6 +12,10 @@
 
 &nbsp;
 
-📈 <b>My GitHub Stats:<b>
-
-[![My Stats](https://github-stats-bbbung.vercel.app/api/stats.js?username=bbbung)](https://github.com/bbbung/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">
+📈 <b>My GitHub Stats:<b>  
+[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/bbbung/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/bbbung/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/bbbung/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/bbbung/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/bbbung/github-profile-summary-cards)
+  
