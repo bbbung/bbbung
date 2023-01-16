@@ -14,4 +14,4 @@
 
 📈 <b>My GitHub Stats:<b>
 
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=bbbung)](https://github.com/bbbung/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">
+[![My Stats](https://github-stats-bbbung.vercel.app/api/stats.js?username=bbbung)](https://github.com/bbbung/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">
