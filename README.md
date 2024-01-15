@@ -1,16 +1,20 @@
-### Hi there 👋, I'm Kanyapat
+### Hi there 👋
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bbbung)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:kanyapat.mekv@kmutt.ac.th)
+Hi, I'm **Kanyapat M**, a CS student at King Mongkut's University of Technology Thonburi.  I thrive on solving problems, both in code and outside the box. When I'm not coding, I love exploring new places, getting lost in a good book, and cuddling with my adorable companions🐱🐶.
 
-&nbsp;
+- 🌱 I’m currently learning locker and ML.
+- 📫 How to reach me: Drop me a DM or [email](mailto:kanyapat.mekvi.com?subject=[GitHub]%20Source%20Han%20Sans) if you want to chat about tech, cats, or anything in between!
 
-<img width="38%" align="right" alt="cat" src="https://img.freepik.com/free-vector/happy-girl-drinking-bubble-milk-tea-cartoon-art-illustration_56104-663.jpg?w=740&t=st=1673284534~exp=1673285134~hmac=5c5c7244a28c611788f9963685767a230afa812d6a34741d8256b48894a956d1" />
+## 🤝 Connect with me:
 
-- 👨🏽‍💻 I’m currently learning in Computer-Science program
-- 🌱 Still be a beginner ka 
+<a href="https://www.linkedin.com/in/kanya-m/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="kanya-m | LinkedIn" width="35px"/></a>
 
-&nbsp;
+<a href="https://instagram.com/bbbung_m"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
 
-<!-- ![KM's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbung&show_icons=true&count_private=true) -->
+<a href="mailto:kanyapat.mekvi@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
+
+</br>
+</br>
+
+
 
